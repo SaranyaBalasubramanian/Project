@@ -21,7 +21,7 @@ A Spring MVC web application for Employee Information Management with the follow
 •	MySql database
 3. Installing:
 i. Clone the git repo
-https://github.com/SaranyaBalasubramanian/GenTask/new/main/Project/EmployeeManagementSystem
+https://github.com/SaranyaBalasubramanian/Project
 
 ii. Open project folder
 iii. Explore
